@@ -8,6 +8,7 @@ docker
 ## Getting Started
 
 Make sure Docker is running
+
 Open the terminal in the root folder
 
 ```
